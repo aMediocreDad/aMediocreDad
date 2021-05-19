@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there!👋
 
 ```bash
 aMediocreDad@Github > I am the maintainer of forbidden-lands-foundry-vtt over at fvtt-fria-ligan. 
@@ -8,21 +8,13 @@ and work on letting you play them on Foundry VTT.
 
 I am active on the Foundry VTT discord and try to help users with any questions they have with regards to the implementation of the Forbidden Lands system or the official modules which I developed together with Free League Publishing:sparkles:
 
-At the moment I am a student, dad, full-time employee and VP of a startup. I also do the stuff above when I can find the time. 
+At the moment I am a `student`, *dad*, **full-time employee** and ***VP of a startup***. I also do that stuff above when I can find the time. 
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I3I64DHYX)
+<br>
+<br>
 
-<!--
-**aMediocreDad/aMediocreDad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- The stat card below is made with https://github.com/anuraghazra/github-readme-stats -->
+<p align=center><img align=centre width=50% src="https://github-readme-stats.vercel.app/api?username=aMediocreDad&count_private=true&show_icons=true&theme=nord" /></p>
+<br>
+<br>
+<p align=center><a href="https://ko-fi.com/I3I64DHYX" target="_blank"><img width=30% src="https://ko-fi.com/img/githubbutton_sm.svg" /></a></p>
